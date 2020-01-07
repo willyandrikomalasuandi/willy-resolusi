@@ -1,0 +1,3 @@
+belajar html
+belajar git
+belajar struktur data & alogaritma
