@@ -2,4 +2,4 @@ belajar html
 belajar git
 belajar struktur data & alogaritma
 belajar php
-belajar css
+belajar java script
